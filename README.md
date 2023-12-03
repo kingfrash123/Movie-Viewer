@@ -2,7 +2,7 @@
 
 By: **king Primo**
 
-**FlexFlix** is a movie browsing app app that introduces networking to api data from themoviedb's movie api to get currently showing movies and posters for them
+**FlexFlix** is a movie browsing app app that introduces networking to get api data from themoviedb's movie api to get currently showing movies and posters for them
 
 ## The following functionality is implemented:
 
